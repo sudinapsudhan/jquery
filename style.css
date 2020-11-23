@@ -1,0 +1,17 @@
+h1{
+    color : red;
+  }
+  p{
+    color: blue;
+  }
+  
+  #box{
+     border : 10px solid black;
+     margin : 10%;
+     padding  : 20%
+  }
+  span{
+     color: blue;
+  }
+  /* you dont have to  make changes here */
+  
